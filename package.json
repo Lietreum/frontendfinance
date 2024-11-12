@@ -1,14 +1,12 @@
 {
-  "name": "vite-react-tailwind-starter",
+  "name": "frontendfinance",
   "version": "0.1.0",
   "private": true,
-  "author": "sozonome",
+  "author": "financeteam",
   "type": "module",
   "engines": {
-    "node": ">=20.14.x",
-    "pnpm": ">=9"
+    "node": ">=20.14.x"
   },
-  "packageManager": "pnpm@9.1.1",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
